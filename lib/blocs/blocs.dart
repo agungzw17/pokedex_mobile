@@ -1,0 +1,1 @@
+export 'resource_pokemon_results_bloc.dart';
